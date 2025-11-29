@@ -1,0 +1,3 @@
+No sublime text para parar o loop tecle CTRL + BREAK
+
+No VsCODE parar parar o loop tecle CTRL + C
